@@ -9,4 +9,4 @@ def welcome():
 def index():
     return "Welcome to the index page"
 if __name__=="__main__":
-    app.run(debug=True)  #use debug=true->for dynamic changes .Onclicking refresh,you will see the changes 
+    app.run(debug=True)  #use debug=true->for dynamic changes .Onclicking refresh,you will see the changes.
